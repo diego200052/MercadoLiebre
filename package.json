@@ -1,0 +1,14 @@
+{
+  "name": "practica-05-html",
+  "version": "1.0.0",
+  "description": "Aprendiendo HTML",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
